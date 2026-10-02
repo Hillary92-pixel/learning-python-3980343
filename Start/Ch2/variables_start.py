@@ -8,7 +8,8 @@ myint = 10
 myfloat = 13.2576
 mystr = "This is a string"
 mybool = True
-
+print("myint")
+print("mystr")
 # We can display the content of a variable using the print() function
 
 
